@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "The Mehweb language",
-		"authors": [{"name": "Michael Daniel"},{"name": "Nina Dobrushina"},{"name": "Dmitry Ganenkov"}],
-	"license": "CC-BY-4.0", 
-	"publishedAt": "2018-10-14T17:16:05.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Michael Daniel"}, {"name": "Nina Dobrushina"}, {"name": "Dmitry Ganenkov"}], "title": "The Mehweb language", "publishedAt": "2018-10-14T17:16:05.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "The Mehweb language", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2019-10-22T22:45:47.959192", "authors": [{"name": "Michael Daniel"}, {"name": "Nina Dobrushina"}, {"name": "Dmitry Ganenkov"}]}]}
